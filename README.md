@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TOXICXX
+- 👋 Hi, I’m @Igor
 - 👀 I’m interested in front-end. ('react, c++, js')
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on sites
